@@ -1,7 +1,7 @@
 # Hi there, I'm Greta! 👋
 
 <p align="left">
-  <a href="www.linkedin.com/in/greta-di-raimondo-5b33ab63" target="_blank">
+  <a href="https://www.linkedin.com/in/greta-di-raimondo-5b33ab63" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -66,5 +66,5 @@ Professional frameworks and languages I work with daily:
 
 ### 📬 Connect with me
 
-- 💼 **LinkedIn:** [Greta Di Raimondo](www.linkedin.com/in/greta-di-raimondo-5b33ab63)
+- 💼 **LinkedIn:** [Greta Di Raimondo](https://www.linkedin.com/in/greta-di-raimondo-5b33ab63)
 - 📧 **Email:** greta.diraimondo91@gmail.com
