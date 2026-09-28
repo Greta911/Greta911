@@ -1,7 +1,7 @@
 # Hi there, I'm Greta! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/greta-di-raimondo-5b33ab63" target="_blank">
+  <a href="www.linkedin.com/in/greta-di-raimondo-5b33ab63" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -55,16 +55,10 @@ Professional frameworks and languages I work with daily:
 
 ### 📂 Featured Projects
 
-#### 🍳 LEPTITDEJ — Web Application
-*A collaborative project for a breakfast catering service based in the Province of Liège.*
-- **Role:** Full-Stack Developer (Collaborative academic group work).
-- **Core Features:** Guided ordering system, dynamic menu management, and fluid UI experience.
-- **Tech Stack:** PHP, Laravel, Tailwind CSS, Alpine.js, MySQL.
-- 🔗 *[Link to Repository / Project details coming soon]*
-
 ---
 
 ### 📬 Connect with me
 
-- 💼 **LinkedIn:** [Greta Di Raimondo](https://www.linkedin.com/in/greta-di-raimondo-5b33ab63)
+- 💼 **LinkedIn:** [Greta Di Raimondo](www.linkedin.com/in/greta-di-raimondo-5b33ab63)
 - 📧 **Email:** greta.diraimondo91@gmail.com
+- 📧 **Email:** grema20012000@yahoo.it
