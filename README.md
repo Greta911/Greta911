@@ -1,7 +1,7 @@
 # Hi there, I'm Greta! 👋
 
 <p align="left">
-  <a href="www.linkedin.com/in/greta-di-raimondo-5b33ab63" target="_blank">
+  <a href="www.linkedin.com/in/greta-di-raimondo-5b33ab63">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
